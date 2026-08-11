@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hola, soy Matías 👋
 
-<!--
-**mtournier/mtournier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Con más de **4 años en soporte técnico**, estoy dando el giro hacia el
+**desarrollo de software**, aplicando lo que aprendo en la carrera de
+Analista TI en la Universidad ORT.
 
-Here are some ideas to get you started:
+- 🎯 Enfocado en **C# / .NET** (backend) y **JavaScript** (front).
+- 📜 Certificado como **Desarrollador Jr. GeneXus 18**.
+- 📍 Montevideo, Uruguay.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+`C#` · `.NET` · `ASP.NET MVC` · `JavaScript` · `HTML` · `CSS` · `Bootstrap` · `Ionic` · `SQL` · `Git` · `GeneXus`
+
+### 📫 Dónde encontrarme
+- 🌐 Portfolio → [mtournier.github.io](https://mtournier.github.io)
+- 💼 LinkedIn → [matias-tournier](https://www.linkedin.com/in/matias-tournier)
+- 📧 Mail → thetournier@gmail.com
