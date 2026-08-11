@@ -4,7 +4,7 @@ Con más de **4 años en soporte técnico**, estoy dando el giro hacia el
 **desarrollo de software**, aplicando lo que aprendo en la carrera de
 Analista TI en la Universidad ORT.
 
-- 🎯 Enfocado en **C# / .NET** (backend) y **JavaScript** (front).
+- 🎯 Enfocado en **C# / .NET** y **JavaScript**.
 - 📜 Certificado como **Desarrollador Jr. GeneXus 18**.
 - 📍 Montevideo, Uruguay.
 
